@@ -131,10 +131,7 @@ const Hero = () => {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 1.2 }}
             >
-                <div className="scroll-mouse">
-                    <div className="scroll-wheel"></div>
-                </div>
-                <span>Scroll Down</span>
+
             </motion.div>
         </section>
     );

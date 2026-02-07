@@ -147,7 +147,6 @@ export const projects: Project[] = [
 
 export const stats = [
     { label: 'Years Experience', value: '1+' },
-    { label: 'Projects Delivered', value: '5+' },
     { label: 'APIs Developed', value: '20+' },
     { label: 'Technologies', value: '12+' },
 ];

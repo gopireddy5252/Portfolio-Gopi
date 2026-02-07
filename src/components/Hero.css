@@ -188,10 +188,10 @@
 /* Stats */
 .hero-stats {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     width: 100%;
-    max-width: 700px;
+    max-width: 600px;
 }
 
 .stat-card {
